@@ -2,4 +2,4 @@
 
 ## Features
 
-Provides a better warning for the Entity Clear
+A Minecraft mod for 1.16.5 that provides a better warning for Entity Clear
